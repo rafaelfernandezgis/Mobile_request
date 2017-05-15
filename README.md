@@ -9,7 +9,7 @@ On this page:
 
 
 * [Auth0](#markdown-header-auth0)
-	* [Manually](#markdown-header-manually)
+	* [Manually](#markdown-manually)
 
 	* [By signup](#markdown-header-by-signup)
 	
