@@ -31,7 +31,7 @@ On this page:
 	
 	* [The pipelineGeometryPromise](#markdown-header-the-pipelinegeometrypromise)
 
-	* [Modifying the 15AUG_PS2_RGB_p2.tif raster file](#markdown-header-modifying-the-15aug_ps2_rgb_p2.tif-raster-file)
+	* [Modifying the 15AUG_PS2_RGB_p2 tif raster file](#modifying-the-15aug_ps2_rgb_p2-tif-raster-file)
 
 	* [Publishing the 15AUG_PS2_RGB_p2.tif raster file](#markdown-header-publishing-the-15aug_ps2_rgb_p2.tif-raster-file)
 	
@@ -403,7 +403,7 @@ if (pipelineGeometryPromise) {
             });
         }
 ```
-## 6. Modifying the 15AUG_PS2_RGB_p2.tif raster file
+## Modifying the 15AUG_PS2_RGB_p2 tif raster file
 
 First thing we need to do is the setup Geotiff file for fast rendering by adding the following capabilities:
 >-- inner tiling
