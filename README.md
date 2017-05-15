@@ -21,9 +21,9 @@ On this page:
 
 * [Geoserver](#markdown-header-geoserver)
 
-	* [wmsRasterType name for infrastructure](#wmsrastertype-name-for-infrastructure)
+	1. [wmsRasterType name for infrastructure](#wmsrastertype-name-for-infrastructure)
 
-	* [Add infrastructure in main.js](#markdown-header-add-infrastructure-in-mainjs)
+	2. [Add infrastructure in main.js](#markdown-header-add-infrastructure-in-mainjs)
 
 	* [Migrate the table in PostGIS and the layer in geoserver](#markdown-header-migrate-the-table-in-postgis-and-the-layer-in-geoserver)
 
@@ -183,7 +183,7 @@ We are changing the infrastructure services since it is the hardest one but agai
 >6. As a complementary basemap layer, we need to modify the raster *15AUG_PS2_RGB_p2.tif* in geoserver.
 >7. Finally we'll publish the raster file
 
-## 1. wmsRasterType name for infrastructure
+## wmsRasterType name for infrastructure
 First function into the object is the WMS feature. It gets the raster that we usually see on the map:
 
 Object		  | WMS in the map
