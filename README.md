@@ -23,7 +23,7 @@ On this page:
 
 	1. [wmsRasterType name for infrastructure](#wmsrastertype-name-for-infrastructure)
 
-	2. [Add infrastructure in main.js](#markdown-header-add-infrastructure-in-main\.js)
+	2. [Add infrastructure in main js](#markdown-header-add-infrastructure-in-main-js)
 
 	* [Migrate the table in PostGIS and the layer in geoserver](#markdown-header-migrate-the-table-in-postgis-and-the-layer-in-geoserver)
 
