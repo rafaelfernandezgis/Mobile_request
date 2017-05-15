@@ -190,7 +190,7 @@ Object		  | WMS in the map
 ------------- | -------------
 ![WMS Raster object](https://c1.staticflickr.com/5/4176/33761756743_da07395250.jpg "WMS Raster object")  | ![WMS Raster on the map](https://c1.staticflickr.com/5/4162/34185925110_1456a6c19b.jpg "WMS Raster on the map")
 
-## Add infrastructure in main.js
+## Add infrastructure in main js
 
 ![Add infrastructure](https://c1.staticflickr.com/5/4187/34410833132_1653710973_z.jpg "Add infrastructure")
 
