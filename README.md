@@ -21,7 +21,7 @@ On this page:
 
 * [Geoserver](#markdown-header-geoserver)
 
-	* [wmsRasterType name for infrastructure](#markdown-header-wmsrastertype-name-for-infrastructure)
+	* [wmsRasterType name for infrastructure](#wmsrastertype-name-for-infrastructure)
 
 	* [Add infrastructure in main.js](#markdown-header-add-infrastructure-in-mainjs)
 
