@@ -183,7 +183,7 @@ We are changing the infrastructure services since it is the hardest one but agai
 >6. As a complementary basemap layer, we need to modify the raster *15AUG_PS2_RGB_p2.tif* in geoserver.
 >7. Finally we'll publish the raster file
 
-## wmsRasterType name for infrastructure
+## 1. wmsRasterType name for infrastructure
 First function into the object is the WMS feature. It gets the raster that we usually see on the map:
 
 Object		  | WMS in the map
